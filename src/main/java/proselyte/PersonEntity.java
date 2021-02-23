@@ -1,5 +1,6 @@
 package proselyte;
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -7,7 +8,9 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class PersonEntity {
+@EqualsAndHashCode
+public class PersonEntity extends BaseEntity{
     private String firstName;
     private String lastName;
+    private String email;
 }
