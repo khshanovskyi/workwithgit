@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SomeTestClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-22T20:03:57" hostname="hrk1-lhp-A04577" time="0.009">
+  <properties/>
+  <testcase name="multi()" classname="SomeTestClassTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
